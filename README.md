@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a passionate **web developer** and **technolog
   ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 - **Programming Languages :**  
   ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-  ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=orange)
+  ![Java](https://img.shields.io/badge/Coffee-007396?style=for-the-badge&logo=Coffee&logoColor=orange)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 - **Tools & Database :**  
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
