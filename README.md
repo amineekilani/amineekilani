@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I'm a passionate **web developer** and **technolog
 ### Get in Touch 📫  
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aminekilani@rades.r-iset.tn)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aminekilani)
-[![Portfolio](https://img.shields.io/badge/Portfolio-24292E?style=for-the-badge&logo=githubpages&logoColor=white)](https://amineekilani.github.io/portfolio/aminekilani.html)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-24292E?style=for-the-badge&logo=githubpages&logoColor=white)](https://amineekilani.github.io/portfolio)  
 ---
 > _"Code never lies, comments sometimes do"_  
 > **— Ron Jeffries**
