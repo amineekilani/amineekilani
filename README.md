@@ -24,9 +24,9 @@ Welcome to my GitHub profile! I'm a passionate **web developer** and **technolog
 - 🤝 **Open To Collaborations:** On web development projects and open-source contributions  
 ---
 ### Get in Touch 📫  
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aminekilani@rades.r-iset.tn)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aminekilani)
-[![Portfolio](https://img.shields.io/badge/Portfolio-24292E?style=for-the-badge&logo=githubpages&logoColor=white)](https://amineekilani.github.io/portfolio)  
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aminekilani@rades.r-iset.tn){:target="_blank"}
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aminekilani){:target="_blank"}
+[![Portfolio](https://img.shields.io/badge/Portfolio-24292E?style=for-the-badge&logo=githubpages&logoColor=white)](https://amineekilani.github.io/portfolio){:target="_blank"}  
 ---
 > _"Code never lies, comments sometimes do"_  
 > **— Ron Jeffries**
