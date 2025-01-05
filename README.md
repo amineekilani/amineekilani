@@ -1,5 +1,5 @@
 # Hi there! 👋 I'm Amine Kilani
-Welcome to my GitHub profile! I'm a passionate **web developer** and **technology enthusiast** currently pursuing a degree in **Development of Information Systems** at ISET Radès.  
+Welcome to my GitHub profile! I am a passionate **web developer** and **technology enthusiast** currently pursuing a degree in **Development of Information Systems** at ISET Radès.  
 ---
 ### My Skills 🚀  
 - **Web Development :**  
