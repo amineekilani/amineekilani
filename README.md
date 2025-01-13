@@ -23,6 +23,10 @@ Welcome to my GitHub profile! I am a passionate **web developer** and **technolo
 - 🎯 **Focused On:** Building responsive websites and learning more about frontend frameworks  
 - 🤝 **Open To Collaborations:** On web development projects and open-source contributions  
 ---
+### GitHub Stats 📊  
+![Amine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amineekilani&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amineekilani&layout=compact&theme=radical)
+---
 ### Get in Touch 📫  
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aminekilani@rades.r-iset.tn)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aminekilani)
