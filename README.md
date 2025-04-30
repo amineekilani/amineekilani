@@ -12,12 +12,15 @@ Welcome to my GitHub profile! I am a passionate **web developer** and **technolo
   ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
   ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
   ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+  ![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
 
 - **Backend & Databases :**  
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
   ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
   ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+  ![Jakarta EE](https://img.shields.io/badge/Jakarta_EE-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 - **Programming Languages :**  
   ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
@@ -28,6 +31,11 @@ Welcome to my GitHub profile! I am a passionate **web developer** and **technolo
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
   ![UML](https://img.shields.io/badge/UML-006699?style=for-the-badge&logoColor=white)
+---
+### Featured Projects 💼  
+- 🔗 [SofreBooks](https://github.com/amineekilani/sofrebooks)  
+  Internal MERN stack app for book sharing at Sofrecom Tunisia with JWT auth, AI book summaries & file exports.  
+  **Tech Stack:** React, Node.js, MongoDB, Tailwind, JWT, DeepSeek API
 ---
 ### About Me 🧑‍💻  
 - 🌱 **Currently Learning:** Dart  
