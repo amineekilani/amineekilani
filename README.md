@@ -13,6 +13,7 @@ Welcome to my GitHub profile! I am a passionate **web developer** and **technolo
   ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
   ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
   ![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
+  ![JavaFX](https://img.shields.io/badge/JavaFX-8CC84B?style=for-the-badge&logo=java&logoColor=white)
 
 - **Backend & Databases :**  
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -30,15 +31,15 @@ Welcome to my GitHub profile! I am a passionate **web developer** and **technolo
 - **Tools & Others :**  
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
   ![UML](https://img.shields.io/badge/UML-006699?style=for-the-badge&logoColor=white)
 ---
 ### Featured Projects 💼  
 - 🔗 [SofreBooks](https://github.com/amineekilani/sofrebooks)  
   Internal MERN stack app for book sharing at Sofrecom Tunisia with JWT auth, AI book summaries & file exports.  
-  **Tech Stack:** React, Node.js, MongoDB, Tailwind, JWT, DeepSeek API
+  **Tech Stack:** React, Node.js, MongoDB, Tailwind CSS, JWT, DeepSeek API
 ---
 ### About Me 🧑‍💻  
-- 🌱 **Currently Learning:** Dart  
 - 🎯 **Focused On:** Building full-stack web apps  
 - 🤝 **Open To Collaborations:** On web development projects and open-source contributions  
 ---
