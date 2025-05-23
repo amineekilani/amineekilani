@@ -21,6 +21,7 @@ Welcome to my GitHub profile! I am a passionate **web developer** and **technolo
   ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
   ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
   ![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+  ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
   ![Jakarta EE](https://img.shields.io/badge/Jakarta_EE-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 - **Programming Languages :**  
