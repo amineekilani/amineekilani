@@ -36,6 +36,18 @@ Welcome to my GitHub profile! I am a passionate **web developer** and **technolo
   ![UML](https://img.shields.io/badge/UML-006699?style=for-the-badge&logoColor=white)
 ---
 ### Featured Projects 💼  
+- 🚗 [RentRover](https://github.com/BahaManai/J2EE-Car-rental-system)  
+  A secure, scalable car rental app built with **JDBC** and **Hibernate**, featuring role-based access control, audit logging, and a responsive **Bootstrap** interface. Designed for performance and enterprise-grade Java application standards.  
+  **Tech Stack:** Java, JDBC, Hibernate, Bootstrap
+
+- 📚 [SymBook](https://github.com/amineekilani/symbook)  
+  A full-featured e-commerce app for online book shopping, developed using **Symfony 5.10**, **Twig**, and **Tailwind CSS**. Features include secure login (native + Google OAuth2), password recovery via Brevo, **Stripe** payments, admin dashboards, AI-enhanced search, Docker deployment, and Google Charts analytics.  
+  **Tech Stack:** Symfony, Twig, Tailwind CSS, Stripe, Docker, Google Charts, Brevo, AI
+
+- ✈️ [Tunisair Flights Management System](https://github.com/ghada-yaac/tunisair)  
+  An intelligent platform to assign aircraft and crew to flights based on availability and maintenance status. Includes secure authentication, flight/crew/aircraft management, and a multi-criteria flight search engine. Built to reduce human error and boost planning efficiency.  
+  **Tech Stack:** Java, SQL, Secure Auth, Custom Scheduling Algorithms
+
 - 🔗 [SofreBooks](https://github.com/amineekilani/sofrebooks)  
   Internal MERN stack app for book sharing at Sofrecom Tunisia with JWT auth, AI book summaries & file exports.  
   **Tech Stack:** React, Node.js, MongoDB, Tailwind CSS, JWT, DeepSeek API
