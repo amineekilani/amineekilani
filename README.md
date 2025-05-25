@@ -36,6 +36,10 @@ Welcome to my GitHub profile! I am a passionate **web developer** and **technolo
   ![UML](https://img.shields.io/badge/UML-006699?style=for-the-badge&logoColor=white)
 ---
 ### Featured Projects 💼  
+- 🎟️ [EasyTicket](https://github.com/amineekilani/easyticket)  
+  A modern web platform for online football ticket sales in Tunisia. Fans can browse matches, select seats via an interactive stadium map, and pay securely with **Stripe**. Includes digital ticketing with QR codes, instant email confirmation, and admin dashboards for real-time stats, match, team, and stadium management.  
+  **Tech Stack:** Symfony, Tailwind CSS, Stripe, QR Code, Brevo Emailing, Admin Dashboard
+
 - 🚗 [RentRover](https://github.com/BahaManai/J2EE-Car-rental-system)  
   A secure, scalable car rental app built with **JDBC** and **Hibernate**, featuring role-based access control, audit logging, and a responsive **Bootstrap** interface. Designed for performance and enterprise-grade Java application standards.  
   **Tech Stack:** Java, JDBC, Hibernate, Bootstrap
@@ -61,7 +65,7 @@ Welcome to my GitHub profile! I am a passionate **web developer** and **technolo
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amineekilani&layout=compact&theme=radical)
 ---
 ### Get in Touch 📫  
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aminekilani@rades.r-iset.tn)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amine.kilani@ieee.org)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aminekilani)
 [![Portfolio](https://img.shields.io/badge/Portfolio-24292E?style=for-the-badge&logo=githubpages&logoColor=white)](https://amineekilani.github.io/portfolio)  
 ---
