@@ -1,73 +1,201 @@
-# Hi there! 👋 I am Amine Kilani
-Welcome to my GitHub profile! I am a passionate **web developer** and **technology enthusiast** currently pursuing a degree in **Development of Information Systems** at ISET Radès.  
+<!-- Header -->
+<div align="center">
+
+# 👋 Amine Kilani
+
+### Full Stack Developer • Web & Mobile
+
+<br/>
+
+</div>
+
+<!-- Typing Animation -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3500&pause=800&color=F59E0B&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=90&lines=%E2%9A%A1+Crafting+seamless+digital+experiences;%F0%9F%94%A5+Web+%26+Mobile+development+specialist;%F0%9F%8E%AF+Clean+code%2C+bold+design%2C+real+impact" alt="Typing SVG"/>
+  </a>
+</div>
+
+<br/>
+
+<!-- Quick Links -->
+<div align="center">
+  <a href="mailto:aminekilani@rades.r-iset.tn">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/aminekilani">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://amineekilani.github.io/portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-F59E0B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  </a>
+</div>
+
 ---
-### My Skills 🚀  
-- **Web Development :**  
-  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-  ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-  ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-  ![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
-  ![JavaFX](https://img.shields.io/badge/JavaFX-8CC84B?style=for-the-badge&logo=java&logoColor=white)
 
-- **Backend & Databases :**  
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-  ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-  ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-  ![Jakarta EE](https://img.shields.io/badge/Jakarta_EE-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+## ⚡ At a Glance
 
-- **Programming Languages :**  
-  ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-  ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=coffeescript&logoColor=orange)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<div align="center">
 
-- **Tools & Others :**  
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-  ![UML](https://img.shields.io/badge/UML-006699?style=for-the-badge&logoColor=white)
+|                🎓 **Education**                 |         🔭 **Focus**         |        🤝 **Open To**        |
+| :---------------------------------------------: | :--------------------------: | :--------------------------: |
+| Development of Information Systems @ ISET Radès | Full-Stack Web & Mobile Apps | Collaborations & Open Source |
+
+</div>
+
 ---
-### Featured Projects 💼  
-- 🎟️ [EasyTicket](https://github.com/amineekilani/easyticket)  
-  A modern web platform for online football ticket sales in Tunisia. Fans can browse matches, select seats via an interactive stadium map, and pay securely with **Stripe**. Includes digital ticketing with QR codes, instant email confirmation, and admin dashboards for real-time stats, match, team, and stadium management.  
-  **Tech Stack:** Symfony, Tailwind CSS, Stripe, QR Code, Brevo Emailing, Admin Dashboard
 
-- 🚗 [RentRover](https://github.com/BahaManai/J2EE-Car-rental-system)  
-  A secure, scalable car rental app built with **JDBC** and **Hibernate**, featuring role-based access control, audit logging, and a responsive **Bootstrap** interface. Designed for performance and enterprise-grade Java application standards.  
-  **Tech Stack:** Java, JDBC, Hibernate, Bootstrap
+## 🛠️ Tech Arsenal
 
-- 📚 [SymBook](https://github.com/amineekilani/symbook)  
-  A full-featured e-commerce app for online book shopping, developed using **Symfony 5.10**, **Twig**, and **Tailwind CSS**. Features include secure login (native + Google OAuth2), password recovery via Brevo, **Stripe** payments, admin dashboards, AI-enhanced search, Docker deployment, and Google Charts analytics.  
-  **Tech Stack:** Symfony, Twig, Tailwind CSS, Stripe, Docker, Google Charts, Brevo, AI
+<div align="center">
 
-- ✈️ [Tunisair Flights Management System](https://github.com/ghada-yaac/tunisair)  
-  An intelligent platform to assign aircraft and crew to flights based on availability and maintenance status. Includes secure authentication, flight/crew/aircraft management, and a multi-criteria flight search engine. Built to reduce human error and boost planning efficiency.  
-  **Tech Stack:** Java, SQL, Secure Auth, Custom Scheduling Algorithms
+### Languages
 
-- 🔗 [SofreBooks](https://github.com/amineekilani/sofrebooks)  
-  Internal MERN stack app for book sharing at Sofrecom Tunisia with JWT auth, AI book summaries & file exports.  
-  **Tech Stack:** React, Node.js, MongoDB, Tailwind CSS, JWT, DeepSeek API
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,java,kotlin,python,php,c&theme=dark" />
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=angular,react,html,css,bootstrap,tailwind&theme=dark" />
+</p>
+
+### Mobile Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio&theme=dark" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+</p>
+
+### Backend & Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,symfony,spring,mongodb,postgres&theme=dark" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jakarta_EE-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+</p>
+
+### Tools & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker&theme=dark" />
+</p>
+
+</div>
+
 ---
-### About Me 🧑‍💻  
-- 🎯 **Focused On:** Building full-stack web apps  
-- 🤝 **Open To Collaborations:** On web development projects and open-source contributions  
+
+## 🏆 Highlighted Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎓 9awi Niveau
+
+**Gamified learning platform (LMS)**
+
+`Spring Boot` `Angular` `MySQL` `Docker` `AI`
+
+- 🎮 Full gamification: XP, levels, badges & challenges
+- 🤖 AI-powered course recommendations
+- � Auto-generated PDF certificates
+- �️ Structured learning paths with progress tracking
+- � Intelligent AI chatbot assistant
+
+<a href="https://github.com/amineekilani/9awi-niveau">
+  <img src="https://img.shields.io/badge/Explore_Repo-F59E0B?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🎟️ EasyTicket
+
+**Online football ticket marketplace**
+
+`Symfony` `Tailwind CSS` `Stripe` `QR Code` `Brevo`
+
+- 🏟️ Interactive stadium seat selection
+- 💳 Secure Stripe payment gateway
+- 📱 Digital tickets with QR codes
+- 📧 Instant email confirmations
+- 📊 Admin dashboard with real-time stats
+
+<a href="https://github.com/amineekilani/easyticket">
+  <img src="https://img.shields.io/badge/Explore_Repo-F59E0B?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔗 SofreBooks
+
+**Internal book sharing app @ Sofrecom Tunisia**
+
+`React` `Node.js` `MongoDB` `Tailwind CSS` `JWT`
+
+- 📖 AI-powered book summaries
+- 📄 File export capabilities
+- 🔐 JWT authentication
+- 🤖 DeepSeek API integration
+
+<a href="https://github.com/amineekilani/sofrebooks">
+  <img src="https://img.shields.io/badge/Explore_Repo-F59E0B?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🌟 More Projects
+
+**Always building, always learning**
+
+Curious about what else I've been working on?
+Browse my repositories for more
+full-stack experiments and side projects.
+
+<br/>
+
+<a href="https://github.com/amineekilani?tab=repositories">
+  <img src="https://img.shields.io/badge/View_All_Repos-F59E0B?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+</div>
+
 ---
-### GitHub Stats 📊  
-![Amine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amineekilani&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amineekilani&layout=compact&theme=radical)
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=amineekilani&theme=highcontrast&hide_border=true&background=0D1117&stroke=F59E0B&ring=F59E0B&fire=EF4444&currStreakLabel=F59E0B" alt="GitHub Streak"/>
+</div>
+
 ---
-### Get in Touch 📫  
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aminekilani@rades.r-iset.tn)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aminekilani)
-[![Portfolio](https://img.shields.io/badge/Portfolio-24292E?style=for-the-badge&logo=githubpages&logoColor=white)](https://amineekilani.github.io/portfolio)  
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amineekilani&bg_color=0d1117&color=f59e0b&line=f59e0b&point=ef4444&area=true&hide_border=true" alt="Contribution Graph"/>
+</div>
+
 ---
-> _"Code never lies, comments sometimes do"_  
-> **— Ron Jeffries**
+
+<!-- Footer -->
+
+<div align="center">
+  <sub>💡 <i>First, solve the problem. Then, write the code.</i> — <b>John Johnson</b> 💡</sub>
+</div>
