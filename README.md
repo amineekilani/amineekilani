@@ -65,7 +65,7 @@ Welcome to my GitHub profile! I am a passionate **web developer** and **technolo
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amineekilani&layout=compact&theme=radical)
 ---
 ### Get in Touch 📫  
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amine.kilani@ieee.org)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aminekilani@rades.r-iset.tn)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aminekilani)
 [![Portfolio](https://img.shields.io/badge/Portfolio-24292E?style=for-the-badge&logo=githubpages&logoColor=white)](https://amineekilani.github.io/portfolio)  
 ---
