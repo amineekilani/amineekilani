@@ -3,7 +3,7 @@
 
 # 👋 Amine Kilani
 
-### Full Stack Developer • Web & Mobile
+### Software Developer
 
 <br/>
 
