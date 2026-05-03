@@ -1,200 +1,207 @@
-<!-- Header -->
 <div align="center">
 
-# 👋 Amine Kilani
+# Amine Kilani
 
-### Software Developer
+### Software Developer · ISET Radès
 
 <br/>
 
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=800&color=F59E0B&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Building+AI-powered+web+%26+mobile+applications;Clean+architecture+%7C+Real-world+impact;Open+to+collaborations+%26+opportunities" alt="Typing SVG"/>
+</a>
+
+<br/><br/>
+
+<a href="mailto:aminekilani@rades.r-iset.tn">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/aminekilani">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://amineekilani.github.io/portfolio">
+  <img src="https://img.shields.io/badge/Portfolio-F59E0B?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=amineekilani&style=flat-square&color=F59E0B&label=Profile+Views"/>
+
 </div>
 
-<!-- Typing Animation -->
+---
+
+## 👨‍💻 About Me
+
+I'm a final-year **Information Systems Development** student at ISET Radès, currently completing my end-of-studies project at **Sopra HR Software**. I build full-stack web and mobile applications with a strong focus on clean architecture, AI integration, and real-world usability.
+
+- 🎓 Pursuing a degree in Development of Information Systems at ISET Radès
+- 🏢 Intern at **Sopra HR Software**
+- 🌍 Languages: Arabic (native), French (fluent), English (professional)
+- 🤝 Open to: internships, collaborations, and open-source contributions
+
+---
+
+## 🚀 Featured Projects
+
+### 🧠 [SIRH Intelligent](https://github.com/amineekilani/pfe) — End-of-Studies Project @ Sopra HR Software
+
+> 🤖 AI-powered assistant for HRMS test data management — built for enterprise scale
+
+Multi-domain HR test data is scattered, inconsistent, and hard to find. This platform solves that by providing a **centralized, searchable catalog** driven by natural language queries in French.
+
+**⚙️ What it does:**
+- 🔍 Semantic search over HR datasets using **CamemBERT embeddings (768D)** + **pgvector** cosine similarity
+- 💬 LLM-powered query optimization via **Llama 3.2 3B (Ollama)** for intent clarification
+- 🔄 Full **ETL pipeline** from Oracle → PostgreSQL covering 9 HR domains (employees, contracts, payroll, leave, etc.)
+- 🗂️ Conversational interface with AI-generated titles, conversation history, and PDF export
+- 🔐 SSO via **Microsoft Entra ID** + JWT + Argon2 authentication
+- 🛡️ Role-based access, admin dashboard, audit logs, and dataset versioning
+
+**Stack:** `FastAPI` `SQLModel` `PostgreSQL + pgvector` `Oracle` `React 19` `TypeScript` `Tailwind CSS v4` `CamemBERT` `spaCy` `Ollama` `Alembic` `Pytest`
+
+---
+
+### 🎓 [9awi Niveau](https://github.com/amineekilani/9awi-niveau) — Gamified Learning Platform (LMS)
+
+> 🎮 Turning online learning into an engaging, progression-driven experience
+
+A full-featured Learning Management System that applies game mechanics to boost learner engagement and course completion rates.
+
+**⚙️ What it does:**
+- ⭐ XP, levels, badges, and challenge systems that reward consistent learning
+- 🤖 AI-powered personalized course recommendations
+- 📜 Auto-generated PDF certificates upon course completion
+- 🛤️ Structured learning paths with automated progress validation
+- 💬 Intelligent AI chatbot for contextual learner support
+- 👥 Multi-role support: Learners, Instructors, and Administrators
+
+**Stack:** `Spring Boot` `Angular` `MySQL` `Docker` `AI/ML`
+
+---
+
+### 🎟️ [EasyTicket](https://github.com/amineekilani/easyticket) — Football Ticket Marketplace
+
+> ⚡ Digitalizing football ticket sales in Tunisia with a secure, end-to-end platform
+
+Eliminates the friction of physical ticket queues by offering a fully digital purchase flow with interactive seat selection and instant delivery.
+
+**⚙️ What it does:**
+- 🏟️ Interactive stadium seat map with real-time availability
+- 💳 Secure online payments via **Stripe**
+- 📱 QR-coded digital tickets delivered by email (Brevo)
+- 📊 Admin dashboard with live sales stats and stadium occupancy monitoring
+- 🔐 Full user authentication and profile management
+
+**Stack:** `Symfony 5` `Tailwind CSS` `Twig` `MySQL` `Stripe API` `QR Code` `Brevo`
+
+---
+
+### 📚 [SofreBooks](https://github.com/amineekilani/sofrebooks) — Internal Book Sharing Platform @ Sofrecom
+
+> 🏢 Built during an internship at Sofrecom Tunisia to facilitate knowledge sharing among employees
+
+A lightweight internal tool that replaces informal book-lending with a structured, trackable system.
+
+**⚙️ What it does:**
+- 📖 Book catalog with CRUD, search by title or author, and detailed pages
+- 🔄 Borrowing request workflow with owner accept/decline control
+- 📋 Loan history per user for full traceability
+- ✨ **AI-generated book summaries** powered by the DeepSeek API
+- 📤 Excel export of book lists and borrowing history
+
+**Stack:** `React` `Node.js` `Express` `MongoDB` `JWT` `Tailwind CSS` `DeepSeek API`
+
+---
+
+## 🗂️ Other Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [UtopiaHire](https://github.com/amineekilani/ieee-cs-challenge) | AI-powered career platform for MENA & Sub-Saharan Africa — IEEE CS Challenge | `Spring Boot` `React` `TypeScript` `AES-256` `Stanford NLP` |
+| [MongoDB Tutorial](https://github.com/amineekilani/mongodb-tutorial) | Hands-on MongoDB learning exercises | `MongoDB` `Node.js` |
+
+---
+
+## 🛠️ Tech Stack
+
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3500&pause=800&color=F59E0B&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=90&lines=%E2%9A%A1+Crafting+seamless+digital+experiences;%F0%9F%94%A5+Web+%26+Mobile+development+specialist;%F0%9F%8E%AF+Clean+code%2C+bold+design%2C+real+impact" alt="Typing SVG"/>
-  </a>
+
+**Languages**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,java,kotlin,python,php,c&theme=dark"/>
+</p>
+
+**Frontend & Mobile**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=angular,react,html,css,tailwind,bootstrap,kotlin,androidstudio&theme=dark"/>
+</p>
+
+**Backend & Databases**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,spring,symfony,postgres,mongodb,mysql&theme=dark"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white"/>
+</p>
+
+**AI & NLP**
+
+<p>
+  <img src="https://img.shields.io/badge/CamemBERT-FF6F00?style=flat-square&logo=huggingface&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white"/>
+</p>
+
+**Tools & DevOps**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode&theme=dark"/>
+</p>
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amineekilani&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amineekilani&theme=github_dark&utcOffset=1"/>
+
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=amineekilani&theme=highcontrast&hide_border=true&background=0D1117&stroke=F59E0B&ring=F59E0B&fire=EF4444&currStreakLabel=F59E0B"/>
 </div>
 
 <br/>
 
-<!-- Quick Links -->
 <div align="center">
-  <a href="mailto:aminekilani@rades.r-iset.tn">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/aminekilani">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://amineekilani.github.io/portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-F59E0B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=amineekilani&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7"/>
 </div>
-
----
-
-## ⚡ At a Glance
-
-<div align="center">
-
-|                🎓 **Education**                 |         🔭 **Focus**         |        🤝 **Open To**        |
-| :---------------------------------------------: | :--------------------------: | :--------------------------: |
-| Development of Information Systems @ ISET Radès | Full-Stack Web & Mobile Apps | Collaborations & Open Source |
-
-</div>
-
----
-
-## 🛠️ Tech Arsenal
-
-<div align="center">
-
-### Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,java,kotlin,python,php,c&theme=dark" />
-</p>
-
-### Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=angular,react,html,css,bootstrap,tailwind&theme=dark" />
-</p>
-
-### Mobile Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio&theme=dark" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-</p>
-
-### Backend & Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,symfony,spring,mongodb,postgres&theme=dark" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jakarta_EE-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-</p>
-
-### Tools & DevOps
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker&theme=dark" />
-</p>
-
-</div>
-
----
-
-## 🏆 Highlighted Projects
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🎓 9awi Niveau
-
-**Gamified learning platform (LMS)**
-
-`Spring Boot` `Angular` `MySQL` `Docker` `AI`
-
-- 🎮 Full gamification: XP, levels, badges & challenges
-- 🤖 AI-powered course recommendations
-- � Auto-generated PDF certificates
-- �️ Structured learning paths with progress tracking
-- � Intelligent AI chatbot assistant
-
-<a href="https://github.com/amineekilani/9awi-niveau">
-  <img src="https://img.shields.io/badge/Explore_Repo-F59E0B?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-<td width="50%" valign="top">
-
-### 🎟️ EasyTicket
-
-**Online football ticket marketplace**
-
-`Symfony` `Tailwind CSS` `Stripe` `QR Code` `Brevo`
-
-- 🏟️ Interactive stadium seat selection
-- 💳 Secure Stripe payment gateway
-- 📱 Digital tickets with QR codes
-- 📧 Instant email confirmations
-- 📊 Admin dashboard with real-time stats
-
-<a href="https://github.com/amineekilani/easyticket">
-  <img src="https://img.shields.io/badge/Explore_Repo-F59E0B?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-</tr>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🔗 SofreBooks
-
-**Internal book sharing app @ Sofrecom Tunisia**
-
-`React` `Node.js` `MongoDB` `Tailwind CSS` `JWT`
-
-- 📖 AI-powered book summaries
-- 📄 File export capabilities
-- 🔐 JWT authentication
-- 🤖 DeepSeek API integration
-
-<a href="https://github.com/amineekilani/sofrebooks">
-  <img src="https://img.shields.io/badge/Explore_Repo-F59E0B?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-<td width="50%" valign="top">
-
-### 🌟 More Projects
-
-**Always building, always learning**
-
-Curious about what else I've been working on?
-Browse my repositories for more
-full-stack experiments and side projects.
 
 <br/>
 
-<a href="https://github.com/amineekilani?tab=repositories">
-  <img src="https://img.shields.io/badge/View_All_Repos-F59E0B?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-</tr>
-</table>
-
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amineekilani&theme=github_dark"/>
 </div>
-
----
-
-## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=amineekilani&theme=highcontrast&hide_border=true&background=0D1117&stroke=F59E0B&ring=F59E0B&fire=EF4444&currStreakLabel=F59E0B" alt="GitHub Streak"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amineekilani&theme=github_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amineekilani&theme=github_dark"/>
 </div>
-
----
-
-## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amineekilani&bg_color=0d1117&color=f59e0b&line=f59e0b&point=ef4444&area=true&hide_border=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amineekilani&bg_color=0d1117&color=f59e0b&line=f59e0b&point=ef4444&area=true&hide_border=true"/>
 </div>
 
 ---
-
-<!-- Footer -->
 
 <div align="center">
   <sub>💡 <i>First, solve the problem. Then, write the code.</i> — <b>John Johnson</b> 💡</sub>
