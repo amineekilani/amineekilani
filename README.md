@@ -43,24 +43,6 @@ I'm a final-year **Information Systems Development** student at ISET Radès, cur
 
 ## 🚀 Featured Projects
 
-### 🧠 [SIRH Intelligent](https://github.com/amineekilani/pfe) — End-of-Studies Project @ Sopra HR Software
-
-> 🤖 AI-powered assistant for HRMS test data management — built for enterprise scale
-
-Multi-domain HR test data is scattered, inconsistent, and hard to find. This platform solves that by providing a **centralized, searchable catalog** driven by natural language queries in French.
-
-**⚙️ What it does:**
-- 🔍 Semantic search over HR datasets using **CamemBERT embeddings (768D)** + **pgvector** cosine similarity
-- 💬 LLM-powered query optimization via **Llama 3.2 3B (Ollama)** for intent clarification
-- 🔄 Full **ETL pipeline** from Oracle → PostgreSQL covering 9 HR domains (employees, contracts, payroll, leave, etc.)
-- 🗂️ Conversational interface with AI-generated titles, conversation history, and PDF export
-- 🔐 SSO via **Microsoft Entra ID** + JWT + Argon2 authentication
-- 🛡️ Role-based access, admin dashboard, audit logs, and dataset versioning
-
-**Stack:** `FastAPI` `SQLModel` `PostgreSQL + pgvector` `Oracle` `React 19` `TypeScript` `Tailwind CSS v4` `CamemBERT` `spaCy` `Ollama` `Alembic` `Pytest`
-
----
-
 ### 🎓 [9awi Niveau](https://github.com/amineekilani/9awi-niveau) — Gamified Learning Platform (LMS)
 
 > 🎮 Turning online learning into an engaging, progression-driven experience
