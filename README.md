@@ -2,7 +2,7 @@
 
 # Amine Kilani
 
-### Software Developer · ISET Radès
+### Software Developer
 
 <br/>
 
@@ -12,7 +12,7 @@
 
 <br/><br/>
 
-<a href="mailto:aminekilani@rades.r-iset.tn">
+<a href="mailto:aminekilani901@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/aminekilani">
@@ -32,10 +32,8 @@
 
 ## 👨‍💻 About Me
 
-I'm a final-year **Information Systems Development** student at ISET Radès, currently completing my end-of-studies project at **Sopra HR Software**. I build full-stack web and mobile applications with a strong focus on clean architecture, AI integration, and real-world usability.
+I'm an **Information Systems Development** graduate from ISET Radès. I build full-stack web and mobile applications with a strong focus on clean architecture, AI integration, and real-world usability.
 
-- 🎓 Pursuing a degree in Development of Information Systems at ISET Radès
-- 🏢 Intern at **Sopra HR Software**
 - 🌍 Languages: Arabic (native), French (fluent), English (professional)
 - 🤝 Open to: internships, collaborations, and open-source contributions
 
