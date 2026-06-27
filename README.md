@@ -41,6 +41,24 @@ I'm an **Information Systems Development** graduate from ISET Radès. I build fu
 
 ## 🚀 Featured Projects
 
+### 🔎 DataScope HR — AI-Powered HR Test Data Platform
+
+> 🤖 Transforming how HRIS teams search, generate, and manage test data
+
+An enterprise-grade platform designed to help HR software teams quickly access, generate, and exploit realistic HR datasets for development and testing within complex information systems.
+
+**⚙️ What it does:**
+- 🔍 Natural language dataset search (French) powered by NLP, semantic embeddings, and hybrid search
+- 🧠 AI-generated synthetic HR data using locally hosted LLMs
+- 🧩 Ensures business rules, inter-table consistency, and high data quality
+- 🔄 Bidirectional ETL pipeline between Oracle and PostgreSQL environments
+- 📊 Dataset versioning, audit logging, and metadata management
+- 🧪 Validation pipelines and observability for reliability and governance
+
+**Stack:** `React` `FastAPI` `PostgreSQL` `Oracle` `Docker` `Ollama` `Llama 3.2` `AI/NLP` `ETL` `CI/CD` `Pytest` `Cypress`
+
+---
+
 ### 🎓 [9awi Niveau](https://github.com/amineekilani/9awi-niveau) — Gamified Learning Platform (LMS)
 
 > 🎮 Turning online learning into an engaging, progression-driven experience
@@ -55,7 +73,7 @@ A full-featured Learning Management System that applies game mechanics to boost 
 - 💬 Intelligent AI chatbot for contextual learner support
 - 👥 Multi-role support: Learners, Instructors, and Administrators
 
-**Stack:** `Spring Boot` `Angular` `MySQL` `Docker` `AI/ML`
+**Stack:** `Angular` `Spring Boot` `MySQL` `Docker` `AI/ML`
 
 ---
 
