@@ -41,7 +41,7 @@ I'm an **Information Systems Development** graduate from ISET Radès. I build fu
 
 ## 🚀 Featured Projects
 
-### 🔎 DataScope HR — AI-Powered HR Test Data Platform
+### 🔎 DataScope HR — AI-Powered HR Test Data Platform @ Sopra HR Software
 
 > 🤖 Transforming how HRIS teams search, generate, and manage test data
 
@@ -115,8 +115,12 @@ A lightweight internal tool that replaces informal book-lending with a structure
 
 | Project | Description | Stack |
 |---|---|---|
-| [UtopiaHire](https://github.com/amineekilani/ieee-cs-challenge) | AI-powered career platform for MENA & Sub-Saharan Africa — IEEE CS Challenge | `Spring Boot` `React` `TypeScript` `AES-256` `Stanford NLP` |
-| [MongoDB Tutorial](https://github.com/amineekilani/mongodb-tutorial) | Hands-on MongoDB learning exercises | `MongoDB` `Node.js` |
+| [DwaExpress](https://github.com/amineekilani/dwa-express-react-native) | Medical prescription management app connecting patients, doctors, and pharmacists with real-time inventory tracking and order management | `React Native` |
+| [UtopiaHire](https://github.com/amineekilani/ieee-cs-challenge) | AI-powered career platform for MENA & Sub-Saharan Africa — IEEE CS Challenge | `React` `Spring Boot` `AES-256` `Stanford NLP` |
+| [Tounes Market](https://github.com/amineekilani/tounes-market) | E-commerce platform with featuring secure authentication, Stripe payments, and AI-powered assistant for seamless shopping experience | `Spring Boot` |
+| [RentRover](https://github.com/BahaManai/J2EE-Car-rental-system) | Secure and scalable car rental management system combining JDBC and Hibernate with role-based access control and audit logging | `Jakarta EE` |
+| [SymBook](https://github.com/amineekilani/symbook) | E-commerce platform for browsing, purchasing, and managing books with secure payments and admin dashboard | `Symfony` |
+| [Tunisair Flights Management System](https://github.com/ghada-yaac/tunisair) | Intelligent flight scheduling system for Tunisair | `JavaFX` |
 
 ---
 
