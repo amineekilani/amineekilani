@@ -185,22 +185,12 @@ A lightweight internal tool that replaces informal book-lending with a structure
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amineekilani&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7"/>
-</div>
-
-<br/>
-
-<div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amineekilani&theme=github_dark"/>
 </div>
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amineekilani&theme=github_dark"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amineekilani&theme=github_dark"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amineekilani&bg_color=0d1117&color=f59e0b&line=f59e0b&point=ef4444&area=true&hide_border=true"/>
 </div>
 
 ---
