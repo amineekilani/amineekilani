@@ -174,7 +174,6 @@ A lightweight internal tool that replaces informal book-lending with a structure
 <div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amineekilani&theme=github_dark"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amineekilani&theme=github_dark&utcOffset=1"/>
 
 </div>
 
