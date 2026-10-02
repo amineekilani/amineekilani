@@ -32,7 +32,7 @@
 
 ## 👨‍💻 About Me
 
-I'm an **Information Systems Development** graduate from ISET Radès. I build full-stack web and mobile applications with a strong focus on clean architecture, AI integration, and real-world usability.
+I'm an **Information Technologies (Development of Information Systems)** graduate from the Higher Institute of Technological Studies of Rades (**ISET Radès**). I build full-stack web and mobile applications with a strong focus on clean architecture, AI integration, and real-world usability.
 
 - 🌍 Languages: Arabic (native), English (fluent), French (fluent), German (basic)
 - 🤝 Open to: internships, collaborations, and open-source contributions
