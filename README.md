@@ -2,7 +2,7 @@
 
 # Amine Kilani
 
-### Software Developer
+### Software Developer · ENSI
 
 <br/>
 
@@ -12,11 +12,14 @@
 
 <br/><br/>
 
-<a href="mailto:aminekilani901@gmail.com">
+<a href="mailto:amine.kilani@ensi-uma.tn">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/aminekilani">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg=="/>
+</a>
+<a href="https://www.npmjs.com/~aminekilani">
+  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
 </a>
 <a href="https://amineekilani.github.io/portfolio">
   <img src="https://img.shields.io/badge/Portfolio-F59E0B?style=for-the-badge&logo=googlechrome&logoColor=white"/>
@@ -32,8 +35,9 @@
 
 ## 👨‍💻 About Me
 
-I'm an **Information Technologies (Development of Information Systems)** graduate from the Higher Institute of Technological Studies of Rades (**ISET Radès**). I build full-stack web and mobile applications with a strong focus on clean architecture, AI integration, and real-world usability.
+I'm a **Computer Science** student at the National School of Computer Sciences (**ENSI**). I build full-stack web and mobile applications with a strong focus on clean architecture, AI integration, and real-world usability.
 
+- 🎓 Pursuing a Master's Degree in Computer Science at ENSI
 - 🌍 Languages: Arabic (native), English (fluent), French (fluent), German (basic)
 - 🤝 Open to: internships, collaborations, and open-source contributions
 
